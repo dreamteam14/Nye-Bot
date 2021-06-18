@@ -1,11 +1,11 @@
 {
-    "ownerNumber": "6285158549166@s.whatsapp.net",
-    "ownerName": "aqulzz",
+    "ownerNumber": "6287880120452@s.whatsapp.net",
+    "ownerName": "David",
     "limitCount": 30,
     "gamewaktu": 60,
-    "botName": "Xinz Bot",
+    "botName": "XINZ BOT",
     "pathImg": "./media/Itsuki.jpg",
-    "lolkey": "YOUR_APIKEY",
+    "lolkey": "OpenVcs500k",
     "sesidInsta": "default",
     "sessionName": "aqulzz",
     "txtDonasi": "GOPAY : 085157226383\nTrakteer : https://trakteer.id/aqulzz\nSaweeria : https://saweria.co/aqulzz\nPulsa : 085157226383",
@@ -14,10 +14,10 @@
         "user": 20
     },
     "emote":{
-        "free": "◽",
-        "owner": "◾",
+        "free": "⚔️",
+        "owner": "🔳",
         "limit": "🔸",
         "glimit": "🔹",
-        "prem": "💰"
+        "prem": "⛳"
     }
 }
